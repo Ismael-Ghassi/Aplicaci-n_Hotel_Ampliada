@@ -10,3 +10,5 @@ Añade:
 6- Objetos "Json" que se usaran para las comunicaciones entre el Socket cliente y el Socket servidor.
 
 Toda interacción que tenga el cliente con la interfaz se mandará al servidor para que apliquen los cambos pertinentes.
+
+Para mas información sobre el proyecto consulte el documento PDF.
