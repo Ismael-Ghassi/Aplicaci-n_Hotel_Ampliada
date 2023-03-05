@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<Lista>
+    <personal dni = "45432312T" > 
+        <nombre>Manuel</nombre>
+        <horario>tarde</horario>
+        <telefono>654231234</telefono>
+        <cp>51002</cp>
+    </personal>
+    <personal dni = "46124352R" > 
+        <nombre>Samir</nombre>
+        <horario>diurno</horario>
+        <telefono>643123423</telefono>
+        <cp>51003</cp>
+    </personal>
+    <personal dni = "44124356Y" > 
+        <nombre>Aaron</nombre>
+        <horario>tarde</horario>
+        <telefono>633124323</telefono>
+        <cp>51002</cp>
+    </personal>
+</Lista>
+
